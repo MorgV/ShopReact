@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShopReact/static/css/main.2ca806c5.css",
+    "main.js": "/ShopReact/static/js/main.fb3780fb.js",
+    "static/media/ФОРД.png": "/ShopReact/static/media/ФОРД.3f82aaf9c709de9ae154.png",
+    "index.html": "/ShopReact/index.html",
+    "main.2ca806c5.css.map": "/ShopReact/static/css/main.2ca806c5.css.map",
+    "main.fb3780fb.js.map": "/ShopReact/static/js/main.fb3780fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca806c5.css",
+    "static/js/main.fb3780fb.js"
+  ]
+}
